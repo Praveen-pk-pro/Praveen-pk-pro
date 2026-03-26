@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Praveen
+# 👋 Hi, I'm Praveen Kumar
 
 🎓 Student | 💡 Idea Builder | 🤖 AI Explorer
 
@@ -30,7 +30,7 @@ I focus on learning, consistency, and real-world impact.
 ## 📫 How to Reach Me
 
 * 📧 Email: **[pkpraveen83441234@gmail.com](mailto:pkpraveen83441234@gmail.com)**
-* 💼 LinkedIn: *(https://www.linkedin.com/in/praveen-kumar-06ace)*
+* 💼 LinkedIn: *https://www.linkedin.com/in/praveen-kumar-06ace*
 
 ---
 
